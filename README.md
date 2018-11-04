@@ -8,7 +8,7 @@ In lab 4, we learned pretty much all the fundamentals of git. Remember branches,
 
 Almost always, before making any changes to a repository, you will create your own 'fork' of the repo in GitHub. A 'fork' is just your own personal copy of the whole repository. We normally work off of forks so that if you just completely break something, the breaking change is localized to *your* fork and doesn't mess up other contributors to the project.
 
-After accepting the Lab 6 assignment, open your Lab 6 repository in GitHub (i.e. https://github.com/Purdue-CS193/lab-6-<Your GitHub Username>). In the top right corner you should see the `Fork` button. Click this and follow the steps to create your own fork.
+After accepting the Lab 6 assignment, open your Lab 6 repository in GitHub (i.e. `https://github.com/Purdue-CS193/lab-6-<Your GitHub Username>`). In the top right corner you should see the `Fork` button. Click this and follow the steps to create your own fork.
 
 If everything goes smoothly, you should have a new Lab 6 repository located at `https://github.com/<Your GitHub Username>/lab-6-<Your GitHub Username>`. This is a completely separate copy of the repository from the one that exists in the Purdue-CS193 organization (the one we actually grade). You will need to manually merge your changes from your fork to the assignment repository (more on this later).
 
@@ -32,7 +32,7 @@ Once you are satisfied that you have a functioning program that prints three tim
 
 Now that we have pushed our changes to our fork of the Lab 6 assignment repository, we need to merge these changes into the main repository (Purdue-CS193/lab-6-<Your GitHub Username>). In a web browser, navigate to the repository page for your fork of the Lab 6 repository (`https://github.com/<Your GitHub Username>/lab-6-<Your GitHub Username>`). If you did everything correctly up to this point, GitHub should already display the `printThreeTimes` branch as a recently pushed to branch as shown in the image below: 
 
-[](https://i.imgur.com/aB6iS9v.png)
+![alt text](https://i.imgur.com/aB6iS9v.png)
 
 What we want to do next is called opening a *Pull Request*. A pull request is essentially a set of proposed changes to the main repository from a fork that can be looked over, reviewed, and commented on by the other contributors to the main repository.
 
