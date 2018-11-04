@@ -30,7 +30,7 @@ Once you are satisfied that you have a functioning program that prints three tim
 
 ## Step 4: Open a Pull Request
 
-Now that we have pushed our changes to our fork of the Lab 6 assignment repository, we need to merge these changes into the main repository (Purdue-CS193/lab-6-<Your GitHub Username>). In a web browser, navigate to the repository page for your fork of the Lab 6 repository (`https://github.com/<Your GitHub Username>/lab-6-<Your GitHub Username>`). If you did everything correctly up to this point, GitHub should already display the `printThreeTimes` branch as a recently pushed to branch as shown in the image below: 
+Now that we have pushed our changes to our fork of the Lab 6 assignment repository, we need to merge these changes into the main repository `Purdue-CS193/lab-6-<Your GitHub Username>`. In a web browser, navigate to the repository page for your fork of the Lab 6 repository (`https://github.com/<Your GitHub Username>/lab-6-<Your GitHub Username>`). If you did everything correctly up to this point, GitHub should already display the `printThreeTimes` branch as a recently pushed to branch as shown in the image below: 
 
 ![alt text](https://i.imgur.com/aB6iS9v.png)
 
