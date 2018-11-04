@@ -76,7 +76,9 @@ Ok, now that we have made a change, reviewed this change, and addressed its issu
 
 ## Step 7: Things don't always go smoothly...
 
-As you can probably guess, you'll more often than not be working on a project with more people than just yourself. With multiple people working in the same files, a phenomenon known as a "merge conflict" is bound to happen. A merge conflict is a instance where a change in another branch cannot be merged automatically by git with the changes you are trying to merge. 
+As you can probably guess, you'll more often than not be working on a project with more people than just yourself. With multiple people working in the same files, a phenomenon known as a "merge conflict" is bound to happen. A merge conflict is a instance where a change in another branch cannot be merged automatically by git with the changes you are trying to merge.
+
+![alt text](https://developer.atlassian.com/blog/2015/01/a-better-pull-request/merge-conflict.png) 
 
 In this section of the lab, we will simulate a merge conflict and work through resolving it. 
 
