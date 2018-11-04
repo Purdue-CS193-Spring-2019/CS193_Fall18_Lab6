@@ -109,6 +109,6 @@ Immediately following the line of `=` is the version of the change from the *bas
 
 To fix the merge conflict, you need to remove the version of the change that you do not want, and keep the version that you do want. You also need to remove the line markers that git added: `<<<<<<< HEAD`, `=======`, and `>>>>>>> 2b431c775e1734008578ebf48c4640b55960da2c`. 
 
-Once you have that done, check that your program still compiles and runs as you expect and then commit this merge by running: `git add lab6.cpp` followed by `git commit`. git will have the commit message already populated for you because this is a merge commit, so you can leave it as it. Now, push your changes and you've resolved your first merge conflict!
+Once you have that done, check that your program still compiles and runs as you expect and then commit this merge by running: `git add lab6.cpp` followed by `git commit`. git will have the commit message already populated for you because this is a merge commit, so you can leave it as is. Now, push your changes and you've resolved your first merge conflict!
 
 Now that the conflict is gone, check back on your pull request page. Refresh the page, and you can now see that you are able to merge these changes into the `master` branch on your assignment repository. Nice! Go ahead and click the merge button and you're done with the lab!
